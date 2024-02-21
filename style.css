@@ -576,6 +576,10 @@ span {
     width: 90%;
 }
 
+.skills-column:nth-child(2) .skills-content .progress:nth-child(9) .bar span {
+    width: 90%;
+}
+
 .contact {
     min-height: auto;
     padding-bottom: 7rem;
